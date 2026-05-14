@@ -1,0 +1,29 @@
+SE Sem Suggestions:-
+CO1:
+1) ProcessFramework Activities (CPMCD)
+2) Umbrella Activities
+3) Software Myths & Realities
+4) Incremental and Spiral Models
+CO2:
+1) W5HH
+2) Function Point Numericals
+3) COCOMO Model Differences and Numericals
+4) Risk Categorization
+5) RMMM
+CO3:
+1) SRS (including Characteristics)
+2) Class Diagram of Bank & Library Management System
+3) Activity & Swimlane Diagram for Book Issue
+4) Cohesion & Coupling
+CO4:
+1) Black & White Box Testing
+2) Re-Engineering
+3) Forward & Reverse Engineering (Difference)
+4) SCM and it's Layers
+CO5:
+1) SQA
+2) FTR
+3) SQA & SQC (Difference)
+4) Quality Standards
+5) SaaS (optional)
+6) CASE (optional)
